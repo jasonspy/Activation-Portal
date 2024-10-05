@@ -10,7 +10,7 @@
 }
 
 .header {
-    padding: 1rem;
+    padding: 2rem;
 }
 .header-container {
     background: rgb(207, 207, 207);
@@ -20,7 +20,7 @@
 }
 .header-container h1{
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: rgb(59, 59, 59);
     letter-spacing: 0.2rem;
 }
@@ -42,12 +42,12 @@
 }
 .second-bar-container h1 {
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.22rem;
     color: rgb(46, 46, 46);
 }
 .second-bar-container p {
     text-align: center;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     font-weight: 700;
     letter-spacing: 0.1rem;
     color: rgb(158, 21, 21);
@@ -67,7 +67,7 @@
     gap: 1rem;
     border: 0.1px solid rgb(1, 31, 58);
     padding: 2rem;
-    font-size: 1px;
+    font-size: 1.2px;
     /* margin-top: 1rem; */
     display: flex;
     justify-content:space-between;
@@ -75,7 +75,7 @@
 }
 
 .me .third-slide-container p {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 }
 .me .third-slide-container img {
     width: 3rem;
@@ -87,7 +87,7 @@
     padding: 1rem;
 }
 .button p{
-    font-size: 15px;
+    font-size: 20px;
 }
 .third-slide-container p{
     font-size: 1rem;
